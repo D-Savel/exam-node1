@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "author": "Chinua Achebe",
+    "title": "Things Fall Apart",
+    "year": 1958
+  },
+  {
+    "id": 2,
+    "author": "Hans Christian Andersen",
+    "title": "Fairy tales",
+    "year": 1836
+  },
+  {
+    "id": 3,
+    "author": "Unknown",
+    "title": "The Epic Of Gilgamesh",
+    "year": -1700
+  },
+  {
+    "id": 4,
+    "author": "Unknown",
+    "title": "The Book Of Job",
+    "year": -600
+  },
+  {
+    "id": 5,
+    "author": "Unknown",
+    "title": "One Thousand and One Nights",
+    "year": 1200
+  },
+  {
+    "id": 6,
+    "author": "Jane Austen",
+    "title": "Pride and Prejudice",
+    "year": 1813
+  },
+  {
+    "id": 7,
+    "author": "Honoré de Balzac",
+    "title": "Le Père Goriot",
+    "year": 1835
+  },
+  {
+    "id": 8,
+    "author": "Samuel Beckett",
+    "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+    "year": 1952
+  },
+  {
+    "id": 9,
+    "author": "Giovanni Boccaccio",
+    "title": "The Decameron",
+    "year": 1351
+  },
+  {
+    "id": 10,
+    "author": "Jorge Luis Borges",
+    "title": "Ficciones",
+    "year": 1965
+  },
+  {
+    "id": 11,
+    "author": "Emily Brontë",
+    "title": "Wuthering Heights",
+    "year": 1847
+  },
+  {
+    "id": 12,
+    "author": "Albert Camus",
+    "title": "The Stranger",
+    "year": 1942
+  },
+  {
+    "id": 13,
+    "author": "Paul Celan",
+    "title": "Poems",
+    "year": 1952
+  },
+  {
+    "id": 14,
+    "author": "Louis-Ferdinand Céline",
+    "title": "Journey to the End of the Night",
+    "year": 1932
+  },
+  {
+    "id": 15,
+    "author": "Miguel de Cervantes",
+    "title": "Don Quijote De La Mancha",
+    "year": 1610
+  },
+  {
+    "id": 16,
+    "author": "Stendhal",
+    "title": "Le rouge et le noir",
+    "year": 1830
+  }
+]
